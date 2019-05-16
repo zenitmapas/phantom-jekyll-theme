@@ -12,4 +12,4 @@ Hola
 <iframe src="https://zenitmapas.github.io/maps/plot_escuelas.html" style="border: none; width: 600px; height: 500px"></iframe>
 <iframe src="https://zenitmapas.github.io/maps/Ciclovias.html" style="border: none; width: 600px; height: 500px"></iframe>
 
-<iframe src="https://zenitmapas.github.io/maps/Estados1.html" style="border: none; width: 600px; height: 500px"></iframe>
+
