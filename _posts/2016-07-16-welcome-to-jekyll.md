@@ -10,6 +10,10 @@ categories: jekyll update
 Hola
 
 <iframe src="https://zenitmapas.github.io/maps/plot_escuelas.html" style="border: none; width: 600px; height: 500px"></iframe>
+
 <iframe src="https://zenitmapas.github.io/maps/Ciclovias.html" style="border: none; width: 600px; height: 500px"></iframe>
+
+<iframe src="https://zenitmapas.github.io/maps/Hablantes%20ind%C3%ADgena%20una%20capa.html" style="border: none; width: 600px; height: 500px"></iframe>
+
 
 
