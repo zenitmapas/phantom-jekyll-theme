@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
 
-<iframe src="https://zenitmapas.github.io/maps/juchi%202.html" style="border: none; width: 600px; height: 500px"></iframe>
+<iframe src="https://zenitmapas.github.io/maps/juchi%202.html" style="border: none; width: 100vw; height: 100%"></iframe>
