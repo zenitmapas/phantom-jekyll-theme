@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 Expande tus horizontes
 
-<iframe src="https://zenitmapas.github.io/maps/Ciclovias.html" style="border: none; width: 1400px; height: 900px"></iframe>
+<iframe src="https://zenitmapas.github.io/maps/Ciclovias.html" style="border: none; width: 1300px; height: 800px"></iframe>
 
 
 
