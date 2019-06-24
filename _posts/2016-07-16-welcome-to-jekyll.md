@@ -9,7 +9,7 @@ categories: jekyll update
 
 Hola
 
-<iframe src="https://zenitmapas.github.io/maps/hablantes.html" style="border: none; width: 600px; height: 500px"></iframe>
+<iframe src="https://zenitmapas.github.io/maps/hablantes.html" style="border: none; width: 1300px; height: 800px"></iframe>
 
 
 
