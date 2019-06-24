@@ -4,8 +4,8 @@ title: Home
 ---
 
 <header>
-<h1>Somos ZENIT tenemos los mapas mas bonitos</h1>
-<p>Etiam quis viverra lorem, in semper lorem. Sed nisl arcu euismod sit amet nisi euismod sed cursus arcu elementum ipsum arcu vivamus quis venenatis orci lorem ipsum et magna feugiat veroeros aliquam. Lorem ipsum dolor sit amet nullam dolore.</p>
+<h1>ZENIT: Sistemas de Información Geográfica, Estadísticas y Proyectos</h1>
+<p>Con ZENIT expande tus horizontes. Desarrollamos Sistemas de Información Geográfica para visualizar, analizar y describir información estadística y geográfica a fin de brindar infomación oportuna y valiosa para la toma de desiciones en materia de políticas públicas, planes, programas, proyectos e investigación. Procesamos información de diferentes bases de datos para su visualización y presentación.</p>
 </header>
 
 {% include tiles.html %}
