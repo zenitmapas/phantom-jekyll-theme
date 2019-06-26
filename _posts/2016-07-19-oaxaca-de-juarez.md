@@ -4,9 +4,10 @@ title:  "Mapas de rutas y elevaciones"
 date:   2016-07-19 12:00:00 -0400
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
+Analiza el perfil y relieve del terreno
 
-<img src="/images/post/oaxaca-de-juarez/IMG-20161004-WA0004.jpg" width="900">
+
+<img src="/images/post/oaxaca/Mapa 3D.png" width="900">
 
 
 
