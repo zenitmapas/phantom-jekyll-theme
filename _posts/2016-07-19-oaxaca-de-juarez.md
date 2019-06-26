@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Mapas de rutas y elevaciones"
+title:  "Mapas de relieve y elevaciones"
 date:   2016-07-19 12:00:00 -0400
 categories: jekyll update
 ---
