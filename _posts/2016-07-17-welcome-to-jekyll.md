@@ -4,9 +4,9 @@ title:  "Aplicación interactiva para movilidad y rutas"
 date:   2016-07-17 12:00:00 -0400
 categories: jekyll update
 ---
-<strong>Mejora la movilidad y planea facilmente rutas</strong>
+<strong>Mejora la movilidad y planea rutas fácilmente</strong>
 
-Este tipo de aplicaciones son ideales para la visualización de datos geográficos en páginas web ya que tiene la versatilidad de ser interactiva para poder analizarlos desplazándose sobre cada una de las capas que se seleccionen. Además de poder mostrar datos al hacer clic sobre cada elemento geográfico, así como poder realizar ampliaciones y reducciones del tamaño.
+Este tipo de aplicaciones son ideales para la visualización de datos geográficos en páginas web ya que tienen la versatilidad de ser interactivas para poder analizar información desplazándose sobre cada una de las capas que se seleccionen. Además, se pueden mostrar datos al hacer clic sobre cada elemento geográfico, así como poder realizar ampliaciones y reducciones del tamaño.
 
 <strong><em>Ciclovías</em></strong>
 
