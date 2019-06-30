@@ -4,9 +4,11 @@ title:  "Mapas de relieve y elevaciones"
 date:   2016-07-19 12:00:00 -0400
 categories: jekyll update
 ---
-Analiza el perfil y relieve del terreno
+<strong>Analiza el perfil y relieve del terreno</strong>
 
 Las condiciones del relieve del terreno son un punto vital a tomar en cuenta para el análisis territorial de distintos proyectos.
+
+<strong><em>Estimación del perfil de una vía de comunicación y visualización 3D de zona de estudio</strong></em>
 
 El perfil de una vía de comunicación o un trasecto ayuda a visualizar y ubicar las distintas variaciones de altura a lo largo del trayecto.
 
