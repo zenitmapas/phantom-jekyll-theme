@@ -7,7 +7,7 @@
 
 # Site settings
 title: ZENIT
-email: youremailaddress@gmail.com
+email: zenitmapas@gmail.com
 description: The Jekyll version of the Phantom theme by HTML5 UP.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://zenitmapas.github.io/" # the base hostname & protocol for your site
