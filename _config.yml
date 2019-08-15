@@ -14,7 +14,7 @@ url: "https://zenitmapas.github.io/" # the base hostname & protocol for your sit
 
 # Logo settings
 logo-image-url: images/logo.svg
-font-awesome-icon-logo: images/logo.svg
+font-awesome-icon-logo: images/logo.png
 
 # Social settings
 github_username: andrewbanchich
