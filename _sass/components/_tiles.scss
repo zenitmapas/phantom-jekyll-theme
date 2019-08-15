@@ -165,7 +165,49 @@
 
 			&.style7 {
 				> .image:before {
+					background-color: _palette(accent1);
+				}
+			}
+
+			&.style8 {
+				> .image:before {
+					background-color: _palette(accent2);
+				}
+			}
+
+			&.style9 {
+				> .image:before {
+					background-color: _palette(accent3);
+				}
+			}
+
+			&.style10 {
+				> .image:before {
+					background-color: _palette(accent4);
+				}
+			}
+
+			&.style11 {
+				> .image:before {
+					background-color: _palette(accent5);
+				}
+			}
+
+			&.style12 {
+				> .image:before {
 					background-color: _palette(accent6);
+				}
+			}
+
+			&.style13 {
+				> .image:before {
+					background-color: _palette(accent1);
+				}
+			}
+
+			&.style14 {
+				> .image:before {
+					background-color: _palette(accent2);
 				}
 			}
 
