@@ -12,7 +12,7 @@ Este tipo de aplicaciones son ideales para la visualización de datos geográfic
 
 Las ciclovías están llegando a convertirse en uno de los grandes hitos de la movilidad urbana. La traza de las vías e información de las rutas son vitales para incentivar el uso de la bicicleta como un medio de transporte ecológico y rápido. 
 
-<iframe src="https://zenitmapas.github.io/maps/Ciclovias.html" style="border: none; width: 1300px; height: 800px"></iframe>
+<iframe src="https://zenitmapas.github.io/maps/Ciclov%C3%ADas.html" style="border: none; width: 1300px; height: 800px"></iframe>
 
 
 
